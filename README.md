@@ -16,5 +16,5 @@ Use the left and right arrow keys to move the paddle, and try to bounce the ball
 ## Features
 Object-oriented design with classes for the paddle, ball, and bricks<br />
 
-## Video Example
+## Demo
 https://user-images.githubusercontent.com/94699055/226714318-f2dc4fa5-995d-43b4-bf2f-65c02aa2a50e.mov
